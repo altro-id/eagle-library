@@ -3,7 +3,7 @@
 an Eagle CAD Library for some boards and components which you can find in our [**Store**](https://www.tokopedia.com/altrosurabaya).
 
 ## Eagle Library Compatibility
-Built on Cadsoft Eagle 7.x.x (now Autocad Eagle), but this should works for eagle 6.x.x and above.
+Built on Cadsoft Eagle 7.x.x (now Autocad Eagle), but this should compatible for eagle 6.x.x or above.
 
 ## Parts List
 
